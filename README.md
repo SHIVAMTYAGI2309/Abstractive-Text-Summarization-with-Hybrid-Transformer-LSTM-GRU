@@ -1,7 +1,3 @@
-Here's a comprehensive README file for the "Abstractive Text Summarization with Hybrid Transformer-LSTM-GRU" project that you can include alongside your implementation:
-
-***
-
 # Abstractive Text Summarization with Hybrid Transformer-LSTM-GRU
 
 ## Project Overview
